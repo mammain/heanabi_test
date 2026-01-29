@@ -1,0 +1,7 @@
+{
+  "name": "꼬꼬마 캐릭터",
+  "description": "Transform your photos into adorable 3D chibi-style characters with a single click.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
